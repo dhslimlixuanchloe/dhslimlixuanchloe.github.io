@@ -1,7 +1,6 @@
 My Personal Portfolio Website
 <!DOCTYPE html>
 <html>
-  <h1>ABOUT ME</H1>
 <link rel="stylesheet" type="text/css" href="style.css">
 <body>
 <h1> All About Me</h1>
